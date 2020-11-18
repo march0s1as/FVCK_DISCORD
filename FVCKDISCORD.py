@@ -46,10 +46,9 @@ print(white + "Redirecionando você ...")
 sleep(4)
 os.system(['clear', 'cls'][os.name == 'nt'])
 print(red + """
-
               ...                            
              ;::::;        Script produzido por: march0s1as the god.                
-           ;::::; :;          Por favor, não faça o mal uso da mesma.              
+           ;::::; :;          Por favor, não faça o mal uso do mesmo.              
          ;:::::'   :;                     
         ;:::::;     ;.                        
        ,:::::'       ;           OOO\         
