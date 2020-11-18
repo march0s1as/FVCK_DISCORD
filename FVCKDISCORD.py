@@ -30,7 +30,7 @@ print("""
 | $$ \/  | $$|  $$$$$$$| $$  | $$|  $$$$$$/|  $$$$$$$| $$
 |__/     |__/ \_______/|__/  |__/ \______/  \_______/|__/                                                                                                                                                                         
 """)
-print(blue + "Primeiramente, edite o arquivo TravaTheGod.py, colocando seu token conforme o local requisitado.")
+print(blue + "Primeiramente, edite o arquivo FVCK_DISCORD.py, colocando seu token conforme o local requisitado.")
 sleep(2)
 print(" ")
 print(cyan + "Posteriormente, ative o modo desenvolvedor nas configurações do seu Discord.")
