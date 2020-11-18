@@ -81,4 +81,4 @@ for _ in range(999999999):
         print(f'O payload será enviado novamente em {data["retry_after"]} segundos')
         time.sleep(data['retry_after'])
     else:
-        print(f'Que porra é essa? Por favor, digite um ID válido. O script agradece.')
+        print(f'Que porra é essa? Por favor, verifique o ID ou o seu próprio token. Obrigado !')
