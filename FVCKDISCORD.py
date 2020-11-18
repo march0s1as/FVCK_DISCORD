@@ -30,7 +30,7 @@ print("""
 | $$ \/  | $$|  $$$$$$$| $$  | $$|  $$$$$$/|  $$$$$$$| $$
 |__/     |__/ \_______/|__/  |__/ \______/  \_______/|__/                                                                                                                                                                         
 """)
-print(blue + "Primeiramente, edite o arquivo FVCK_DISCORD.py, colocando seu token conforme o local requisitado.")
+print(blue + "Primeiramente, edite o arquivo FVCKDISCORD.py, colocando seu token conforme o local requisitado.")
 sleep(2)
 print(" ")
 print(cyan + "Posteriormente, ative o modo desenvolvedor nas configurações do seu Discord.")
@@ -41,6 +41,7 @@ sleep(2)
 print(" ")
 print(magenta + "Na URL de seu navegador, aparecerá o ID da mesma. Copie e cole abaixo.")
 sleep(2)
+print(" ")
 print(yellow + "O script não funciona em quem está offline.")
 sleep(2)
 print(" ")
