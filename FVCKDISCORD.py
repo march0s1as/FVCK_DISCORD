@@ -50,7 +50,7 @@ print(red + """
               ...                            
              ;::::;        Script produzido por: march0s1as the god.                
            ;::::; :;          Por favor, não faça o mal uso da mesma.              
-         ;:::::'   :;            Saiba que não me responsabilizo pelos seus atos.         
+         ;:::::'   :;                     
         ;:::::;     ;.                        
        ,:::::'       ;           OOO\         
        ::::::;       ;          OOOOO\        
