@@ -1,4 +1,12 @@
 # FVCK_DISCORD
+![unnamed](https://i.imgur.com/q7Xg00T.png)
+![unnamed](https://i.imgur.com/TcTMBco.png)
+
+
+
+
+
+
 Por favor, não sejamos script kiddie's. Não sobreviva de scripts alheios; muito menos de travas. Beijos ! 
 
 Este é um script, codado em python3, que enviará um spam de emojis no chat, quer seja ele privado, quer seja um grupo/server.
@@ -16,3 +24,5 @@ Como inserir o token?
    07. Edite o arquivo com um editor de texto (nano, mousepad, vim..);
    08. No local [token: ''], cole o que você copiou entre as aspas;
    09. Usufrua do script.
+   
+   
