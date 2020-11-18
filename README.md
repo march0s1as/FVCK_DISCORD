@@ -4,6 +4,8 @@ Por favor, não sejamos script kiddie's. Não sobreviva de scripts alheios; muit
 Este é um script, codado em python3, que enviará um spam de emojis no chat, quer seja ele privado, quer seja um grupo/server.
 Após pôr o ID da vítima, o chat da mesma travará.
 
+** pip install -r requirements.txt **
+
 Como inserir o token?
    01. Abra o Discord Web;
    02. Inspecione elemento;
