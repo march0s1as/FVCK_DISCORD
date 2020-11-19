@@ -7,6 +7,7 @@
 
 
 
+** SERVIDOR DO DISCORD PARA HACKERS E PROGRAMADORES --> https://discord.gg/v5d3PZ9 **
 Por favor, não sejamos script kiddie's. Não sobreviva de scripts alheios; muito menos de travas. Beijos ! 
 
 Este é um script, codado em python3, que enviará um spam de emojis no chat, quer seja ele privado, quer seja um grupo/server.
