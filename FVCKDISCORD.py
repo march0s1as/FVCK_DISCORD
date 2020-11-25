@@ -76,10 +76,9 @@ print(white + """
 | $$ \/  | $$|  $$$$$$$| $$  | $$|  $$$$$$/|  $$$$$$$| $$
 |__/     |__/ \_______/|__/  |__/ \______/  \_______/|__/                                                                                                                                                                         
 """)
-print(blue + "Primeiramente, edite o arquivo FVCK_DISCORD.py, colocando seu token conforme o local requisitado.")
 sleep(2)
 print(" ")
-print(cyan + "Posteriormente, ative o modo desenvolvedor nas configurações do seu Discord.")
+print(cyan + "Primeiramente, ative o modo desenvolvedor nas configurações do seu Discord.")
 sleep(2)
 print(" ")
 print( green + "Logo em seguida, vá para o chat de quem você deseja atacar (user/server/grupo).")
