@@ -17,7 +17,7 @@ Após pôr o ID da vítima, o chat da mesma travará.
 - `cd ~/FVCK_DISCORD && pip install -r requirements.txt`
 
 ## Manual - Token Discord
-
+`
  /$$      /$$                                         /$$
 | $$$    /$$$                                        | $$
 | $$$$  /$$$$  /$$$$$$  /$$$$$$$  /$$   /$$  /$$$$$$ | $$
@@ -26,7 +26,7 @@ Após pôr o ID da vítima, o chat da mesma travará.
 | $$\  $ | $$ /$$__  $$| $$  | $$| $$  | $$ /$$__  $$| $$
 | $$ \/  | $$|  $$$$$$$| $$  | $$|  $$$$$$/|  $$$$$$$| $$
 |__/     |__/ \_______/|__/  |__/ \______/  \_______/|__/ 
-
+`
 
 1. Abra o Discord Web;
 2. Inspecione elemento;
