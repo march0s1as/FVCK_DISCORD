@@ -2,7 +2,7 @@
 ![unnamed](https://i.imgur.com/q7Xg00T.png)
 ![unnamed](https://i.imgur.com/TcTMBco.png)
 
-##### SERVIDOR DO DISCORD PARA HACKERS E PROGRAMADORES --> [**Aqui**](https://discord.gg/v5d3PZ9)
+##### SERVIDOR DO DISCORD PARA HACKERS E PROGRAMADORES -> [**Aqui**](https://discord.gg/v5d3PZ9)
 
 Por favor, não sejamos **script kiddie's**. Não **sobreviva** de **scripts alheios**; muito menos de travas. Beijos ! 
 
