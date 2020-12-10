@@ -1,13 +1,9 @@
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
 
-from time import sleep
-import requests
-import json
-import time
-import os
-import sys
+import requests, json, time
 
+from time import sleep
 from lib import banner
 from lib import color
 
