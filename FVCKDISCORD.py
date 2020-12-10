@@ -1,3 +1,6 @@
+#!/usr/bin/python3
+# -*- coding: utf-8 -*-
+
 from time import sleep
 import requests
 import json
@@ -5,8 +8,8 @@ import time
 import os
 import sys
 
-import lib.banner
-import lib.color
+from lib import banner
+from lib import color
 
 print(banner.banner_centauro())
 
