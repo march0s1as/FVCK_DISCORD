@@ -1,5 +1,10 @@
+#!/usr/bin/python3
+# -*- coding: utf-8 -*-
+
+from lib import color
+
 def banner_centauro():
-	text = white + """
+	text = color.white + """
  <=======]}======
     --.   /|         Script produzido por: march0s1as the god.
    _\"/_.'/          Por favor, não faça o mal uso do mesmo.
