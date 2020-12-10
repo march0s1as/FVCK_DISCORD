@@ -1,3 +1,6 @@
+#!/usr/bin/python3
+# -*- coding: utf-8 -*-
+
 red = "\033[91;1m"
 reset = "\033[0m"
 green = "\033[92;1m"
