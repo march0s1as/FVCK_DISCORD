@@ -1,4 +1,5 @@
-# FVCK_DISCORD
+<h1 align="center">FVCK_DISCORD</h1>
+
 ![unnamed](https://i.imgur.com/jUa9KRY.png)
 
 ##### SERVIDOR DO DISCORD PARA HACKERS E PROGRAMADORES -> [**Aqui**](https://discord.gg/v5d3PZ9)
