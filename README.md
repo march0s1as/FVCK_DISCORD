@@ -24,8 +24,9 @@ Como inserir o token?
    04. Atualize a página;
    05. Pesquise por "authorization";
    06. Copie seu token;
-   07. Edite o arquivo com um editor de texto (nano, mousepad, vim..);
-   08. No local [token: ''], cole o que você copiou entre as aspas;
-   09. Usufrua do script.
+   07. use: python3 FVCKDISCORD.py <o token que voce copiou> 
+   08. Usufrua do script.
+
+obs: esta nova feature da branche NÃO FOI TESTADA, sinta-se livre para criar novos commits que possam corrigir algum erro que possa acontecer
    
    
